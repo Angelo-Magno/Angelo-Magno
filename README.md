@@ -4,10 +4,8 @@
 
 - 👨‍💻 I’m currently working on my final paper
 - 📚 I’m currently learning data science and machine learning
-- 👯 I’m looking to collaborate on open source projects about AI
+- 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with computer vision
-- 📫 How to reach me: angelompr.edu@gmail.com
-
 
 ### Languages and tools:
 <div style="display: inline_block"><br>
@@ -36,6 +34,13 @@
 
 ##
 
+### My Projects:
+[![Repo 7DaysOfCode](https://github-readme-stats.vercel.app/api/pin/?username=Angelo-Magno&repo=7DaysOfCode&bg_icons=true&theme=nightowl)](https://github.com/Angelo-Magno/7DaysOfCode)
+[![Repo dio-bank-system-python](https://github-readme-stats.vercel.app/api/pin/?username=Angelo-Magno&repo=dio-bank-system-python&bg_icons=true&theme=nightowl)](https://github.com/Angelo-Magno/dio-bank-system-python)
+[![Repo dio-instagram](https://github-readme-stats.vercel.app/api/pin/?username=Angelo-Magno&repo=dio-instagram&bg_icons=true&theme=nightowl)](https://github.com/Angelo-Magno/dio-instagram)
+  
+##
+
 ### Connect with me: 
 <div> 
   <a href="https://www.linkedin.com/in/angelo-magno-12b25a71/" target="_blank">
@@ -46,13 +51,6 @@
   </a>
   <a href="https://pt.duolingo.com/profile/angelo697515" target="_blank">
     <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank">
-  </a>  
+  </a> 
 </div>
 
-##
-
-### My Projects:
-[![Repo 7DaysOfCode](https://github-readme-stats.vercel.app/api/pin/?username=Angelo-Magno&repo=7DaysOfCode&bg_icons=true&theme=nightowl)](https://github.com/Angelo-Magno/7DaysOfCode)
-[![Repo dio-bank-system-python](https://github-readme-stats.vercel.app/api/pin/?username=Angelo-Magno&repo=dio-bank-system-python&bg_icons=true&theme=nightowl)](https://github.com/Angelo-Magno/dio-bank-system-python)
-[![Repo dio-instagram](https://github-readme-stats.vercel.app/api/pin/?username=Angelo-Magno&repo=dio-instagram&bg_icons=true&theme=nightowl)](https://github.com/Angelo-Magno/dio-instagram)
-  
