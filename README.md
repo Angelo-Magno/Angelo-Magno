@@ -38,6 +38,7 @@
 [![Repo 7DaysOfCode](https://github-readme-stats.vercel.app/api/pin/?username=Angelo-Magno&repo=7DaysOfCode&bg_icons=true&theme=nightowl)](https://github.com/Angelo-Magno/7DaysOfCode)
 [![Repo dio-bank-system-python](https://github-readme-stats.vercel.app/api/pin/?username=Angelo-Magno&repo=dio-bank-system-python&bg_icons=true&theme=nightowl)](https://github.com/Angelo-Magno/dio-bank-system-python)
 [![Repo dio-instagram](https://github-readme-stats.vercel.app/api/pin/?username=Angelo-Magno&repo=dio-instagram&bg_icons=true&theme=nightowl)](https://github.com/Angelo-Magno/dio-instagram)
+
   
 ##
 
@@ -53,4 +54,9 @@
     <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank">
   </a> 
 </div>
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count:</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Angelo-Magno}/count.svg" /></p> 
+<br></div>
 
