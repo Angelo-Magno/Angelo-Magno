@@ -50,7 +50,7 @@
   <a href="https://www.beecrowd.com.br/judge/pt/profile/518775" target="_blank">
     <img height="29" width="120" src="https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" target="_blank">
   </a>
-  <a href="https://pt.duolingo.com/profile/angelo697515" target="_blank">
+  <a href="https://www.duolingo.com/profile/angelo697515?via=share_profile" target="_blank">
     <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank">
   </a> 
 </div>
